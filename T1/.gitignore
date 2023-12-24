@@ -1,0 +1,21 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+.vscode
+
+# Archivos de la T1 ignorados
+Enunciado.pdf
+imprimir_tablero.py
+*.txt
+tests/
+
+supertablero.py

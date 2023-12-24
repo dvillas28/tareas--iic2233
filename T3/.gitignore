@@ -1,0 +1,21 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+.vscode
+
+# Tarea 3
+
+Enunciado.pdf
+api.py
+utilidades.py
+run_public_tests.py
+test_publicos/
