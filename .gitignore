@@ -6,7 +6,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.pdf
 *.idea
 *.DS_STORE
 .vscode

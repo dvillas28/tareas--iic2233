@@ -13,9 +13,9 @@ __pycache__/
 .vscode
 
 # Archivos de la T1 ignorados
-Enunciado.pdf
-imprimir_tablero.py
-*.txt
-tests/
+# Enunciado.pdf
+# imprimir_tablero.py
+# *.txt
+# tests/
 
 supertablero.py
